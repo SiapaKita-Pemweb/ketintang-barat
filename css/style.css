@@ -448,11 +448,12 @@ a:hover { color: #000 }
 }
 .doctor_img {
 	padding-left: 65px;
+	margin-top: 40px;
 }
 .doctor_img img {}
 .doctor_text {
 	padding-top: 70px;
-    margin-left: -30px;
+    margin-left: 30px;
 }
 .doctor_text h1{
 	text-transform: uppercase;
